@@ -1,5 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/Draysh/samples/main/",
-  "garage": "/garage.wav",
-  "edmvocal": "/edmvocal.wav",
+  "garage": "garage.wav",
+  "edmvocal": "edmvocal.wav",
 }
